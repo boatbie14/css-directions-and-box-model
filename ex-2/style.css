@@ -1,1 +1,38 @@
-/* Start coding here */
+
+body{
+    /* flex-direction: column;
+    display: flex; */
+}
+
+
+.container{
+    /* background-color: ; */
+    background-color: white;
+    border: 16px solid black;
+
+}
+
+.outter-container{
+    background-color: white;
+    border: 16px solid lightgrey ;
+}
+
+
+.first-box{
+    background-color: yellow;
+    border: 24px solid crimson;
+    
+
+
+    height: 600px;
+    margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.techup{
+    padding: 30px ;
+    font-size: 72px;
+}
+
