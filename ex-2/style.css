@@ -1,1 +1,24 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  background-color: black;
+  border: 16px solid lightgrey;
+  height: 100vh;
+  display: flex;
+}
+.card {
+  background-color: khaki;
+  border: 24px solid crimson;
+  margin: 24px;
+  flex: 1;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  margin: 30px;
+}
