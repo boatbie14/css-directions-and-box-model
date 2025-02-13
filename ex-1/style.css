@@ -16,7 +16,7 @@ header {
 }
 
 h1 {
-  font-family: "Sarabun";
+  font-family: "Sarabun", serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -29,6 +29,12 @@ h1 {
   border: 3px solid #183b56;
   margin: 40px;
   padding: 15px 20px;
+}
+
+.card h2 {
+  font-family: "Sarabun", serif;
+  font-weight: 300;
+  color: #183b56;
 }
 
 .card img {
